@@ -9,6 +9,16 @@ function App() {
     <div className="App">
       <h1>Weather App</h1>
       <Search />
+      <small>
+        <a
+          href="https://github.com/yagmurrizvi/Weather-react-homework"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Open-source code{" "}
+        </a>
+        by Yagmur Rizvi
+      </small>
     </div>
   );
 }
